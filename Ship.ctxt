@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=name\ size
+comment1.target=Ship(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=
+comment4.target=int\ getLivesLeft()
+comment5.params=
+comment5.target=boolean\ isSunk()
+comment6.params=sunk
+comment6.target=void\ setSunk(boolean)
+comment7.params=
+comment7.target=Position\ getPosition()
+comment8.params=position
+comment8.target=void\ setPosition(Position)
+comment9.params=
+comment9.target=void\ shipWasHit()
+comment9.text=\n\ \u03B1\u03C0\u03BF\u03C4\u03C5\u03C0\u03CE\u03BD\u03B5\u03B9\ \u03C4\u03BF\ \u03C0\u03BB\u03BF\u03AF\u03BF\ \u03C0\u03BF\u03C5\ \u03B2\u03C5\u03B8\u03AF\u03C3\u03C4\u03B7\u03BA\u03B5\n
+numComments=10

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Utils
+comment0.text=\n\ \u03B2\u03BF\u03B7\u03B8\u03B7\u03C4\u03B9\u03BA\u03BF\ class\ \u03B3\u03B9\u03B1\ \u03C4\u03B7\u03BD\ \u03BB\u03B7\u03C4\u03BF\u03C5\u03C1\u03B3\u03B9\u03B1\ \u03C4\u03BF\u03C5\ \u03C0\u03B1\u03B9\u03C7\u03BD\u03B9\u03B4\u03B9\u03BF\u03C5\n\ \n
+comment1.params=
+comment1.target=Utils()
+comment2.params=from\ to
+comment2.target=double\ distanceBetweenPoints(java.awt.Point,\ java.awt.Point)
+comment2.text=\n\ \u03B1\u03C0\u03BF\u03C3\u03C4\u03B1\u03C3\u03B7\ \u03BC\u03B5\u03C4\u03B1\u03BE\u03C5\ points\ double.\n\ \u03C0\u03B1\u03C1\u03B1\u03BC\u03B5\u03C4\u03C1\u03BF\u03C2\ from\n\ \u03C0\u03B1\u03C1\u03B1\u03BC\u03B5\u03C4\u03C1\u03BF\u03C2\ to\n\ \u03B5\u03C0\u03B9\u03C3\u03C4\u03C1\u03BF\u03C6\u03B7\ double\n
+comment3.params=point\ position
+comment3.target=boolean\ isPointBetween(java.awt.Point,\ Position)
+numComments=4
